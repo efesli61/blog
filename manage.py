@@ -17,6 +17,6 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
-# Django Udemy Eğitimi Başlangıç
+# Django Udemy Eğitimi Başlangıçççç
 if __name__ == '__main__':
     main()
